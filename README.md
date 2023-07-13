@@ -13,9 +13,9 @@ In this guide, the
 version of Debian will be used.
 
 > **Note**
-> - Any command that starts with `$` can be run as an unprivileged user.
-> - Any command that starts with `#` must be run as root.
-> - Any command that starts with `(chroot) #` must be run within
+> - Any command that starts with "$" can be run as an unprivileged user.
+> - Any command that starts with "#" must be run as root.
+> - Any command that starts with "(chroot) #" must be run within
 > the [chroot](#chrooting).
 
 # Contents
