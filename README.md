@@ -246,6 +246,7 @@ The following packages are essential for this guide:
     cryptsetup-initramfs \
     dropbear-initramfs \
     locales \
+    openssh-server \
     zstd
 ```
 
