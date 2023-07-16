@@ -493,6 +493,7 @@ The following commands are necessary to have a working network:
 (chroot) # apt install systemd-resolved
 (chroot) # ln -sf /run/systemd/resolve/resolv.conf /etc/resolv.conf
 (chroot) # update-initramfs -u -k all
+(chroot) # systemctl enable systemd-networkd.service
 ```
 
 # Cleaning up
