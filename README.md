@@ -386,7 +386,7 @@ after booting into the system.
 
 The following configuration should be fine for this guide:
 
-/mnt/etc/systemd/50-dhcp.network
+/mnt/etc/systemd/network/50-dhcp.network
 ```
 [Match]
 Name=e*
